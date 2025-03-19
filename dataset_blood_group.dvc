@@ -1,0 +1,6 @@
+outs:
+- md5: fe37ffd0d1f782b1a5d5be391848169f.dir
+  size: 245892800
+  nfiles: 6000
+  hash: md5
+  path: dataset_blood_group
